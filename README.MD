@@ -19,10 +19,10 @@ MEL_Project/
 |   └── 3_Enumeration.json
 │
 ├── MAIN_data/                       
-│   ├── FINAL_data/
-│   ├── Generated_MEL_on_FINAL_data/
-│   ├── Test_Input_1/
-│   └── Test_Output_1/
+│   ├── REACTIONS_for_MEL.tsv/
+│   ├── SYNTHONS_by_reaction_id_modified_for_MEL/
+│   ├── MIN_caps_for_generation/
+│   └── MIN_CAPS_for_enumeration/
 │
 ├── scripts/                  
 │   └── generate.sh
