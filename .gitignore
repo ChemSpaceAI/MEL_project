@@ -1,0 +1,15 @@
+# Ignore everything
+/*
+
+# But keep these folders
+!/configs/
+!/scripts/
+!/mel_package/
+!/functional_jsons/
+!/notebooks/
+
+
+# Optional: also keep README files or .gitignore itself
+!README.MD
+!requirements.txt
+!.gitignore

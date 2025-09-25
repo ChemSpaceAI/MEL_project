@@ -1,0 +1,13 @@
+{
+    "synthons_folder_path":"MAIN_data/SYNTHONS_by_reaction_id_modified_for_MEL",
+    "reaction_file_path": "MAIN_data/REACTIONS_for_MEL.tsv",
+    "external_minimal_synthons_path":  "MAIN_data/MIN_caps_for_generation",
+
+    "output_folder_path": "Generated_MEL_2",
+
+    "consequent_processing": false,
+    "n_processes":55,
+    "custom_reaction_id": false,  
+    "id_mapper_path": "/chemai_narnia/MEL_project/functional_jsons/reaction_id_type_map.json"
+
+}

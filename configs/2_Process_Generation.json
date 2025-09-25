@@ -1,0 +1,9 @@
+
+{
+    "input_dir": "Generated_MEL_2/enumerated_MEL",
+    "chunk_size": 50000,
+    "mel_types": ["2_component", "3_component", "bridge"],
+    "synthon_counts_with_bridge_position":"functional_jsons/reaction_id_with_counts.json"
+  }
+ 
+

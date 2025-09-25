@@ -1,0 +1,20 @@
+{    
+    "syntons_folder_path": "main_data/SYNTHONS_by_reaction_id_modified_for_MEL",
+    
+    "reactions_file_path": "MAIN_data/REACTIONS_for_MEL.tsv",
+
+    "minimal_caps_folder_path": "combined_all/MIN_caps_for_enumeration",
+
+    "filter_config_file_path": "main_data/Filter_Config.json",
+
+    "output_folder_path": "test_2/Test_3_comp_12M",
+    "path_to_input_csv": "test_2/test_all_3comp_selected.csv",
+
+    "mel_type":"3_component",
+    "iteration_level": 2,
+
+    "synthon_counts_with_bridge_position":"functional_jsons/Reaction_id_with_counts.json",
+
+    "N_cores":30,
+    "N_compounds_to_Enumerate": 1000000
+}
